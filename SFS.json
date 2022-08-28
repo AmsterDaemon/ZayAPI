@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "name": "Base Set",
+            "description": "It's actually a \"crayfish\"",
+            "photo": "http://i1124.photobucket.com/albums/l565/Druid_of_Luhn/CodePen/crawdad.jpg",
+            "price": 2000.00
+        },
+        {
+            "name": "WOTC Promos",
+            "description": "Gives a friendly wave.",
+            "photo": "http://i1124.photobucket.com/albums/l565/Druid_of_Luhn/CodePen/gorilla.jpg",
+            "price": 4000.00
+        },
+        {
+            "name": "Jungle",
+            "description": "Hero in a half shell.",
+            "photo": "http://i1124.photobucket.com/albums/l565/Druid_of_Luhn/CodePen/ninja.jpg",
+            "price": 1000.00
+        },
+        {
+            "name": "Fossil",
+            "description": "Computing Classic.",
+            "photo": "http://i1124.photobucket.com/albums/l565/Druid_of_Luhn/CodePen/psion.jpg",
+            "price": 1500.00
+        }
+    ]
+}
