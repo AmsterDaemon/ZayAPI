@@ -3,7 +3,7 @@
   {"id":"base1-1","name":"Alakazam","illustrator":"Ken Sugimori","image":"https://images.pokemontcg.io/base1/1_hires.png"},
   {"id":"base3-1","name":"Aerodactyl","illustrator":"Kagemaru Himeno","image":"https://images.pokemontcg.io/base3/1_hires.png"},
   {"id":"base2-1","name":"Clefable","illustrator":"Mitsuhiro Arita","image":"https://images.pokemontcg.io/base2/1_hires.png"},
-  {"id":"base5-1","name":"Dark Alakazam","illustrator":"Ken Sugimori","image":"https://images.pokemontcg.io/base1/5_hires.png"},
+  {"id":"base5-1","name":"Dark Alakazam","illustrator":"Ken Sugimori","image":"https://images.pokemontcg.io/base5/1_hires.png"},
   {"id":"basep-1","name":"Pikachu","illustrator":"Keiji Kinebuchi","image":"https://images.pokemontcg.io/bw1/1_hires.png"},
   {"id":"bw1-1","name":"Snivy","illustrator":"Kagemaru Himeno","image":"https://images.pokemontcg.io/bw1/1_hires.png"},
   {"id":"bw7-1","name":"Oddish","illustrator":"Kanako Eo","image":"https://images.pokemontcg.io/bw7/1_hires.png"},
