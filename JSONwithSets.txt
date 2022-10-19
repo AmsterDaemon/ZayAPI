@@ -1,6 +1,5 @@
 [
   {"id":"exu-!","name":"Unown","illustrator":"Kyoko Koizumi","image":"undefined/high.webp","set":"Unseen Forces Unown Collection"},
-  undefined,
   {"id":"base4-1","name":"Alakazam","illustrator":"Ken Sugimori","image":"https://assets.tcgdex.net/en/base/base4/1/high.webp","set":"Base Set 2"},
   {"id":"base1-1","name":"Alakazam","illustrator":"Ken Sugimori","image":"https://assets.tcgdex.net/en/base/base1/1/high.webp","set":"Base Set"},
   {"id":"base3-1","name":"Aerodactyl","illustrator":"Kagemaru Himeno","image":"https://assets.tcgdex.net/en/base/base3/1/high.webp","set":"Fossil"},
