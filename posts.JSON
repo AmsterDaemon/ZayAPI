@@ -1,164 +1,92 @@
 [
-        {
-          title: "Post 1",
-          description: "This is the first post.",
-          images: [
-            {
-              title: "Image 1",
-              src: "https://picsum.photos/200/300?random=1",
-              description: "This is the first image."
-            },
-            {
-              title: "Image 2",
-              src: "https://picsum.photos/200/300?random=2",
-              description: "This is the second image."
-            }
-          ],
-          isEditing: false,
-          currentIndex: 0,
-        },
-        {
-          title: "Post 2",
-          description: "This is the second post.",
-          images: [
-            {
-              title: "Image 3",
-              src: "https://picsum.photos/400/300?random=3",
-              description: "This is the third image."
-            },
-            {
-              title: "Image 4",
-              src: "https://picsum.photos/200/300?random=4",
-              description: "This is the fourth image."
-            }
-          ],
-          isEditing: false,
-          currentIndex: 0,
-        },
-        {
-          title: "Post 2",
-          description: "This is the second post.",
-          images: [
-            {
-              title: "Image 3",
-              src: "https://picsum.photos/400/300?random=3",
-              description: "This is the third image."
-            },
-            {
-              title: "Image 4",
-              src: "https://picsum.photos/200/300?random=4",
-              description: "This is the fourth image."
-            }
-          ],
-          isEditing: false,
-          currentIndex: 0,
-        },
-        {
-          title: "Post 1",
-          description: "This is the first post.",
-          images: [
-            {
-              title: "Image 1",
-              src: "https://picsum.photos/200/300?random=1",
-              description: "This is the first image."
-            },
-            {
-              title: "Image 2",
-              src: "https://picsum.photos/200/300?random=2",
-              description: "This is the second image."
-            }
-          ],
-          isEditing: false,
-          currentIndex: 0,
-        },
-        {
-          title: "Post 2",
-          description: "This is the second post.",
-          images: [
-            {
-              title: "Image 3",
-              src: "https://picsum.photos/400/300?random=3",
-              description: "This is the third image."
-            },
-            {
-              title: "Image 4",
-              src: "https://picsum.photos/200/300?random=4",
-              description: "This is the fourth image."
-            }
-          ],
-          isEditing: false,
-          currentIndex: 0,
-        },
-        {
-          title: "Post 2",
-          description: "This is the second post.",
-          images: [
-            {
-              title: "Image 3",
-              src: "https://picsum.photos/400/300?random=3",
-              description: "This is the third image."
-            },
-            {
-              title: "Image 4",
-              src: "https://picsum.photos/200/300?random=4",
-              description: "This is the fourth image."
-            }
-          ],
-          isEditing: false,
-          currentIndex: 0,
-        },
-        {
-          title: "Post 1",
-          description: "This is the first post.",
-          images: [
-            {
-              title: "Image 1",
-              src: "https://picsum.photos/200/300?random=1",
-              description: "This is the first image."
-            },
-            {
-              title: "Image 2",
-              src: "https://picsum.photos/200/300?random=2",
-              description: "This is the second image."
-            }
-          ],
-          isEditing: false,
-          currentIndex: 0,
-        },
-        {
-          title: "Post 2",
-          description: "This is the second post.",
-          images: [
-            {
-              title: "Image 3",
-              src: "https://picsum.photos/400/300?random=3",
-              description: "This is the third image."
-            },
-            {
-              title: "Image 4",
-              src: "https://picsum.photos/200/300?random=4",
-              description: "This is the fourth image."
-            }
-          ],
-          isEditing: false,
-          currentIndex: 0,
-        },
-        {
-          title: "Post 2",
-          description: "This is the second post.",
-          images: [
-            {
-              title: "Image 3",
-              src: "https://picsum.photos/400/300?random=3",
-              description: "This is the third image."
-            },
-            {
-              title: "Image 4",
-              src: "https://picsum.photos/200/300?random=4",
-              description: "This is the fourth image."
-            }
-          ],
-          isEditing: false,
-          currentIndex: 0,
-        }
-      ]
+  {
+    "title": "Post 1",
+    "description": "This is the first post.",
+    "images": [
+      {
+        "title": "Image 1",
+        "src": "https://picsum.photos/200/300?random=1",
+        "description": "This is the first image."
+      },
+      {
+        "title": "Image 2",
+        "src": "https://picsum.photos/200/300?random=2",
+        "description": "This is the second image."
+      }
+    ],
+    "isEditing": false,
+    "currentIndex": 0
+  },
+  {
+    "title": "Post 2",
+    "description": "This is the second post.",
+    "images": [
+      {
+        "title": "Image 3",
+        "src": "https://picsum.photos/400/300?random=3",
+        "description": "This is the third image."
+      },
+      {
+        "title": "Image 4",
+        "src": "https://picsum.photos/200/300?random=4",
+        "description": "This is the fourth image."
+      }
+    ],
+    "isEditing": false,
+    "currentIndex": 0
+  },
+  {
+    "title": "Post 2",
+    "description": "This is the second post.",
+    "images": [
+      {
+        "title": "Image 3",
+        "src": "https://picsum.photos/400/300?random=3",
+        "description": "This is the third image."
+      },
+      {
+        "title": "Image 4",
+        "src": "https://picsum.photos/200/300?random=4",
+        "description": "This is the fourth image."
+      }
+    ],
+    "isEditing": false,
+    "currentIndex": 0
+  },
+  {
+    "title": "Post 1",
+    "description": "This is the first post.",
+    "images": [
+      {
+        "title": "Image 1",
+        "src": "https://picsum.photos/200/300?random=1",
+        "description": "This is the first image."
+      },
+      {
+        "title": "Image 2",
+        "src": "https://picsum.photos/200/300?random=2",
+        "description": "This is the second image."
+      }
+    ],
+    "isEditing": false,
+    "currentIndex": 0
+  },
+  {
+    "title": "Post 2",
+    "description": "This is the second post.",
+    "images": [
+      {
+        "title": "Image 3",
+        "src": "https://picsum.photos/400/300?random=3",
+        "description": "This is the third image."
+      },
+      {
+        "title": "Image 4",
+        "src": "https://picsum.photos/200/300?random=4",
+        "description": "This is the fourth image."
+      }
+    ],
+    "isEditing": false,
+    "currentIndex": 0
+  }
+]
