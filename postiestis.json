@@ -28,6 +28,19 @@
     "expanded": false
   },
   {
+    "id": 3,
+    "title": "Post 3",
+    "images": [
+      { "src": "https://picsum.photos/400/300?random=7", "description": "Zayventh description." }
+    ],
+    "tags": ["Tag 7"],
+    "pinned": false,
+    "liked": false,
+    "explicit": false,
+    "currentImage": null,
+    "expanded": false
+  },
+  {
     "id": 4,
     "title": "Lorem Ipsum",
     "images": [
